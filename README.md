@@ -1,2 +1,2 @@
-# CodeAlpha_Data_science
+# CodeAlpha_tasks
 My internship projects at Code Alpha 
