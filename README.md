@@ -2,10 +2,7 @@
 My internship projects at Code Alpha 
 1. Iris Flower Classification using Machine Learning
    
- Introduction
-  The objective of this task is to build a machine learning classification model that can accurately predict the species of an Iris flower based on its physical measurements. This task helps in understanding the
-  fundamentals of supervised learning, classification algorithms, data splitting, model training, and evaluation.
-   The Iris dataset is a well-known dataset in machine learning and contains measurements of three different Iris species:
+ Introduction:The objective of this task is to build a machine learning classification model that can accurately predict the species of an Iris flower based on its physical measurements. This task helps in understanding the fundamentals of supervised learning, classification algorithms, data splitting, model training, and evaluation. The Iris dataset is a well-known dataset in machine learning and contains measurements of three different Iris species:
       Iris Setosa
       Iris Versicolor
       Iris Virginica
