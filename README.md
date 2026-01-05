@@ -41,11 +41,12 @@ My internship projects at Code Alpha
           After training, the model was tested on unseen data. The performance was evaluated using:
           Accuracy Score
           Classification Report (Precision, Recall, F1-score)
-3. Car Price Prediction Using Machine Learning
-  1. Introduction
-  Car price prediction is a real-world machine learning application that helps estimate the market value of vehicles based on various features. This project aims to develop a regression model that predicts car prices       using machine learning techniques.
+2. Car Price Prediction Using Machine Learning
 
-  2. Dataset Description
+Introduction: Car price prediction is a real-world machine learning application that helps estimate the market value of vehicles based on various features. This project aims to develop a regression model that predicts car prices       using machine learning techniques.
+
+
+ 2. Dataset Description
     The dataset contains information about cars and their selling prices.
     Key Features:
       Brand / Car Name
