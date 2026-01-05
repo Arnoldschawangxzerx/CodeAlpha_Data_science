@@ -1,6 +1,7 @@
 # CodeAlpha_tasks
 My internship projects at Code Alpha 
 1. Iris Flower Classification using Machine Learning
+   
  Introduction
   The objective of this task is to build a machine learning classification model that can accurately predict the species of an Iris flower based on its physical measurements. This task helps in understanding the
   fundamentals of supervised learning, classification algorithms, data splitting, model training, and evaluation.
@@ -42,7 +43,7 @@ My internship projects at Code Alpha
           After training, the model was tested on unseen data. The performance was evaluated using:
           Accuracy Score
           Classification Report (Precision, Recall, F1-score)
-2. Car Price Prediction Using Machine Learning
+3. Car Price Prediction Using Machine Learning
   1. Introduction
   Car price prediction is a real-world machine learning application that helps estimate the market value of vehicles based on various features. This project aims to develop a regression model that predicts car prices       using machine learning techniques.
 
