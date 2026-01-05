@@ -85,7 +85,71 @@ Introduction: Car price prediction is a real-world machine learning application 
     Decision-making for buyers and sellers
   6. Conclusion
     This project demonstrates how machine learning regression techniques can be applied to predict car prices. The task provided hands-on experience with data preprocessing, model training, evaluation, and visualization.
+
+
 TASK 3: Sales Prediction using Python:
 Objective:
 Predict future sales based on advertising spend, target segment, and platform. Also analyze how advertising affects sales to help marketing decision-making.
+📌 Project Overview
+
+This project focuses on predicting future sales using data-driven techniques in Python. The goal is to analyze how different advertising channels, target segments, and platforms influence sales outcomes and to build a predictive model that can assist businesses in making informed marketing decisions.
+
+The project was developed as part of a remote Data Science internship and demonstrates the complete machine learning workflow, including data preprocessing, exploratory analysis, model building, evaluation, and business insight generation.
+
+🎯 Objectives
+
+Predict sales based on advertising spend and marketing-related features
+Clean and preprocess real-world data for modeling
+Apply regression techniques to forecast sales
+Analyze the impact of advertising strategies on revenue
+Generate actionable insights to optimize marketing spend
+
+🗂️ Dataset Description
+
+The dataset contains historical sales and advertising data, including:
+Advertising spend across multiple channels (e.g., TV, social media, search ads)
+Target customer segments
+Marketing platforms
+Sales figures
+Categorical variables such as platform and target segment are encoded, and missing values are handled to ensure data consistency.
+
+🛠️ Tools & Technologies
+
+Python
+Google Colab
+Pandas & NumPy – Data manipulation and preprocessing
+Matplotlib & Seaborn – Data visualization
+Scikit-learn – Machine learning modeling and evaluation
+
+🔄 Project Workflow
+
+Data Loading
+Dataset uploaded and loaded using Google Colab
+Exploratory Data Analysis (EDA)
+Understanding data structure, distributions, and missing values
+Data Cleaning & Transformation
+Handling missing values
+Encoding categorical variables using one-hot encoding
+Feature Selection
+Identifying relevant features affecting sales
+Model Building
+Implemented a Linear Regression model to predict sales
+Model Evaluation
+Evaluated using MAE, RMSE, and R² score
+Advertising Impact Analysis
+Analyzed regression coefficients to understand how advertising spend affects sales
+Sales Forecasting
+Predicted future sales based on sample advertising strategies
+
+📈 Model Evaluation Metrics
+Mean Absolute Error (MAE)
+Root Mean Squared Error (RMSE)
+R² Score
+These metrics help assess prediction accuracy and overall model performance.
+
+💡 Key Insights
+Advertising spend has a significant positive impact on sales performance
+Certain marketing platforms contribute more effectively to revenue growth
+Optimized allocation of advertising budget can improve ROI
+Predictive modeling enables better campaign planning and sales forecasting
 
